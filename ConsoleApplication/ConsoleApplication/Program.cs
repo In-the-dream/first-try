@@ -11,7 +11,8 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("First-Try excites;");
-            Console.WriteLine("My age is 20");
+            Console.WriteLine("Here some information about me:");
+            Console.WriteLine("My name is A.S.");
             Console.ReadKey();
         }
     }
