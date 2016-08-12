@@ -10,7 +10,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First-Try excite;");
+            Console.WriteLine("First-Try excites;");
             Console.ReadKey();
         }
     }
